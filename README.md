@@ -6,13 +6,17 @@ Welcome to our graduation project, Live It Right — a website designed to help 
 
 ## 🌟 Features
 
-- ✅ User-friendly website interface
-- 🍽 Food products for different conditions
-- 🚨Alarm to remind them in case they forgot time for medicine
-- 🧑‍🍳 Healthy recipes
-- 🚨 Emergency tips & first aid guides
-- 💬 Chatbot for user questions
-- 🧪Doctors to contact with them
+-🧑‍🍳User-submitted recipes tailored to various dietary needs  .
+
+-🍽 Health-related products from . 
+
+-🚨Medication and vitamin reminder alerts . 
+
+-💡Educational and awareness content. 
+
+-🧪Doctors to contact with them.
+
+-💬Chatbot for user questions.
 
 ---
 
@@ -24,14 +28,20 @@ Welcome to our graduation project, Live It Right — a website designed to help 
 - API (for chatbot)
 
 ---
+## 👥Built with Team Spirit!
+Huge thanks to my amazing teammates:
 
-## 🧠 Team Members
+💫Arwa Seada
 
-- Dina Ali 
-- Arwa seada 
-- Joy osama 
-- Ehab Hiba 
-- Youssef Ahmed
+💫 Joy Osama  
+
+💫 Ehab Hiba
+
+💫 Yousef Ahmed 
+
+This version of the project is maintained and documented by **Dina Ali**  — A proud member of this awesome group!.
+
+📅 May 2025  
 
 ---
 

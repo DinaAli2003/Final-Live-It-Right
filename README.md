@@ -35,16 +35,6 @@ Welcome to our graduation project, Live It Right — a website designed to help 
 
 ---
 
-## 📌 How to Use
-
-1. Open the website in your browser
-3. Browse safe food products, recipes, tips and more....
-4. Ask questions using the chatbot
-5. Enjoy a healthier lifestyle!
-
----
-
-
 ## 📬 Contact
 
 If you have any questions or feedback, feel free to reach out:

@@ -36,9 +36,12 @@ This project demonstrates strong proficiency in foundational front-end developme
 
 ## 🎓 Academic Context
 
-This work was successfully completed as our  **Graduation Project** in the **Business Information System (BIS) Department** at **Tanta University**. The project received academic guidance and supervision from **Dr. Mona Ganna**.
+This project was successfully completed as part of our **Graduation Project** in the **Business Information System (BIS) Department** at **Tanta University**. Throughout the project, we had the privilege of receiving continuous **academic guidance**, **support**, and **supervision** from **Dr. Mona Ganna**, whose expertise greatly contributed to the **quality** and **completion** of our work.
+
+This achievement reflects the **knowledge**, **skills**, and **experience** we have gained over the years in the **BIS program**, as well as our dedication to applying both **theoretical** and **practical concepts** to real-world **problem-solving**. We are proud of accomplishing this **milestone** and grateful for the valuable **mentorship**, **direction**, and **resources** that helped shape the **final outcome** of our project.
 
 ---
+
 
 ## 👥 Project Team & Contributions
 
